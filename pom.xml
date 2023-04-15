@@ -30,7 +30,7 @@
         <!-- org.codehaus.mojo doesn't support Java 8+, use fork for now though it seems a new release is comming soon -->
         <aspectj-maven-plugin.group-id>dev.aspectj</aspectj-maven-plugin.group-id>
         <auto-value.version>1.7.4</auto-value.version>
-        <immutables-value.version>2.8.2</immutables-value.version>
+        <immutables-value.version>2.9.2</immutables-value.version>
         <!-- google-java-format 1.7 is the last version that supports JVM 8 -->
         <plugin.version.google-java-format>1.7</plugin.version.google-java-format>
         <jjwt.version>0.10.5</jjwt.version>
